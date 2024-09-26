@@ -5,7 +5,17 @@ def missing_pet():
     slow_print("\n[Senior Detective]: Welcome, rookie! We have a simple case to solve.")
     slow_print("[Senior Detective]: Mrs. Johnson's cat, Whiskers, is missing!")
     slow_print("[Senior Detective]: Let's question the suspects to find out who might have seen him.")
-
+    print(''' ,_     _
+              |\\_,-~/
+              / _  _ |    ,--.
+             (  @  @ )   / ,-'
+              \  _T_/-._( (
+              /         `. \
+             |         _  \ |
+              \ \ ,  /      |
+               || |-_\__   /
+              ((_/`(____,-''
+''')
     question_suspects()
 
 def question_suspects():
