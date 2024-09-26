@@ -11,7 +11,22 @@ def broken_vase():
     slow_print("[Senior Detective]: He swears none of the three people in the house could’ve done it.")
     slow_print("[Senior Detective]: But we know better, don’t we?")
     slow_print("[Senior Detective]: The suspects are the butler, Mr. Wilson's daughter, and his friendly neighbor. Time to figure out who’s behind this mess.")
-    
+    print('''      @(\/)
+                 (\/)-{}-)@
+                @(={}=)/\)(\/)
+              (\/(/\)@| (-{}-)
+             (={}=)@(\/)@(/\)@
+              (/\)\(={}=)/(\/)
+              @(\/)\(/\)/(={}=)
+              (-{}-)""""@/(/\)
+               (/\)|:   |
+                  /::'   \
+                 /:::     \
+                |::'       |
+                |::        |
+                \::.       /
+                 ':______.'
+                  `""""""`''')
     # Present suspects
     slow_print("\n[You]: Let’s start questioning the suspects.")
     
